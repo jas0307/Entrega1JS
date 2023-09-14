@@ -28,14 +28,13 @@ else
 
 let ciclo=false
 while(ciclo==false){
-    ciclo=false
+    
 let num1 = parseInt(prompt("ingresa 1° numero"))
 let operacion = prompt("Ingrese operacion")
 let num2 = parseInt(prompt("ingresa 2° numero"))
-ciclo=true
+
 if(operacion == "+")
     {console.log(num1 + num2)
      alert(num1+num2)
-     ciclo=false
-    }
+         }
 }

@@ -26,7 +26,7 @@ else
 }*/
 
 
-let ciclo=false
+let ciclo=false 
 while(ciclo==false){
     
 let num1 = parseInt(prompt("ingresa 1° numero"))

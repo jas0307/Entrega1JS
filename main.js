@@ -14,7 +14,7 @@ const calcParametro = (valor1, valor2, calculo) => {
 
 // Función menu
 const menu = () => {
-    console.log("Calculadora Ley de Ohm");
+    console.log("Calculos electricos Ley de Ohm");
     console.log("Elija parametro a calcular: 1 (Voltaje) 2 (Resistencia) 3 (Corriente) 4 (Salir):");
     alert("Calculadora Ley de Ohm")
   
